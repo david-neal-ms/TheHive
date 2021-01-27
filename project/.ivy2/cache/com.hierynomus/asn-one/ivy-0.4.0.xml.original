@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.hierynomus</groupId>
+  <artifactId>asn-one</artifactId>
+  <version>0.4.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.13</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <description>ASN.1 serialization and parsing library</description>
+  <url>https://gitlab.com/hierynomus/asn-one</url>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>https://opensource.org/licenses/Apache-2.0</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://gitlab.com/hierynomus/asn-one</url>
+    <connection>scm:git@gitlab.com:hierynomus/asn-one.git</connection>
+    <developerConnection>scm:git@gitlab.com:hierynomus/asn-one.git</developerConnection>
+  </scm>
+  <issueManagement>
+    <system>GitLab</system>
+    <url>https://gitlab.com/hierynomus/asn-one/issues</url>
+  </issueManagement>
+  <developers>
+    <developer>
+      <id>hierynomus</id>
+      <name>Jeroen van Erp</name>
+      <email>jeroen@hierynomus.com</email>
+      <roles>
+        <role>Lead developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <name>asn-one</name>
+</project>

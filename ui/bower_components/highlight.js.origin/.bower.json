@@ -1,0 +1,14 @@
+{
+  "name": "highlight.js.origin",
+  "homepage": "https://github.com/isagalaev/highlight.js",
+  "version": "9.18.5",
+  "_release": "9.18.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "9.18.5",
+    "commit": "f54e96c24325f077a027bb950dcd9f8f3ef48b16"
+  },
+  "_source": "https://github.com/isagalaev/highlight.js.git",
+  "_target": "^9.15.6",
+  "_originalSource": "highlight.js.origin"
+}
