@@ -35,7 +35,8 @@ lazy val thehiveMisp = (project in file("thehive-misp"))
       Library.Play.guice,
       Library.Play.ahc,
       Library.zip4j,
-      Library.elastic4play
+      Library.elastic4play,
+      Library.netty
     )
   )
 

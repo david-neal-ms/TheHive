@@ -23,5 +23,6 @@ object Dependencies {
     val akkaCluster      = "com.typesafe.akka"   %% "akka-cluster"       % play.core.PlayVersion.akkaVersion
     val akkaClusterTyped = "com.typesafe.akka"   %% "akka-cluster-typed" % play.core.PlayVersion.akkaVersion
     val akkaClusterTools = "com.typesafe.akka"   %% "akka-cluster-tools" % play.core.PlayVersion.akkaVersion
+    val netty            = "io.netty"            %  "netty"              % "3.10.6.Final"
   }
 }
